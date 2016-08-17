@@ -1,0 +1,14 @@
+{
+	"secret"			: "EEFGH-THGF8-QQ852-T4N1G-BX87A-GT!7S",
+	"EMPRESA"			: "AJE",
+	"conn_MySQL"	: {
+		"host"			: "localhost",
+		"port"			: "3306", 
+		"user"			: "root",
+		"password"		: "mysql",
+		"database"		: "nuevoprotisa"	
+	},
+	"admins"			: ["admin@protisa","JEFADM","ANAADM"],
+	"PORT"				: "2194"
+
+}

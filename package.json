@@ -1,0 +1,28 @@
+{
+  "name": "strategioServer",
+  "version": "1.1.0",
+  "description": "Strategio Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vida Software",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "compression": "^1.0.11",
+    "cors": "^2.4.1",
+    "dotenv": "^0.4.0",
+    "errorhandler": "^1.1.1",
+    "express": "^4.8.5",
+    "express-jwt": "^0.3.1",
+    "iconv-lite": "^0.4.13",
+    "jsonwebtoken": "^5.5.4",
+    "lodash": "^2.4.2",
+    "mkdirp": "^0.5.1",
+    "morgan": "^1.2.3",
+    "mssql": "^3.0.0",
+    "mysql": "^2.10.1",
+    "underscore": "^1.8.3"
+  }
+}
